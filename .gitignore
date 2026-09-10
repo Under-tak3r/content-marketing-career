@@ -1,0 +1,16 @@
+# Credentials and local settings
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+auth.json
+config.toml
+# Local project materials
+marketing-context.md
+private/
+work/
+outputs/
+.DS_Store
+__pycache__/
