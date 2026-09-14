@@ -1,0 +1,4 @@
+interface:
+  display_name: "内容营销实战与求职"
+  short_description: "面向互联网与外企快消求职，贯通洞察、内容、活动、复盘和作品集训练"
+  default_prompt: "使用 $content-marketing-career，根据我的目标 JD 和已有经历，安排一次内容营销实战训练。"
